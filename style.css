@@ -17,11 +17,26 @@ overflow-wrap: anywhere;
 .container {
 display: flex;
 flex-wrap: wrap;
+background-image: none;
+background-color: #3674B5;
+padding-top: 0px;
+padding-bottom: 55px;
+padding-left: 70px;
+padding-right: 100px;
+text-align: left;
+left:0px;
+top: -16px;
+z-index: 10;
+margin: auto;
+margin-top: 32px;
+margin-bottom: 32px;
+width: 650px;
 }
 
 .item {
 flex: 1 1 calc(33% - 10px);
 margin: 5px;
+position: relative;
 }
 
 .blairt {
@@ -32,6 +47,7 @@ font-weight: bold;
 letter-spacing: -2px;
 }
 
+/*
 div#body {
 background-image: none;
 background-color: #3674B5;
@@ -49,6 +65,7 @@ margin-bottom: 32px;
 width: 650px;
 position: relative;
 }
+*/
 
 p {
 padding-bottom: 20px;
