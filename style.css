@@ -1,6 +1,6 @@
 body, td { 
 scrollbar-track-color: #2d2729;
-background-color: #aa3322;
+background-color: #4DA8DA;
 background-image: url(bg.gif);
 background-repeat: repeat;
 background-position: 0 0;
@@ -24,7 +24,7 @@ letter-spacing: -2px;
 
 div#body {
 background-image: none;
-background-color: #aa3322;
+background-color: #4DA8DA;
 padding-top: 0px;
 padding-bottom: 55px;
 padding-left: 70px;
@@ -59,12 +59,12 @@ letter-spacing: -1px;
 
 /* LINKS */
 a {
-color: #400;
+color: #80D8C3;
 text-decoration: none;
 }
 
 a:hover {
-background-color: #fff;
-color: #aa3322;
+/* background-color: #fff; */
+color: #FFD66B;
 }
 
