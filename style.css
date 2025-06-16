@@ -1,11 +1,11 @@
 body, td { 
 scrollbar-track-color: #2d2729;
-background-color: #4DA8DA;
+background-color: #3674B5;
 background-image: url(bg.gif);
 background-repeat: repeat;
 background-position: 0 0;
 font-family: 'Shippori Antique', 'helvetica', 'arial', sans-serif;
-color: #edd;
+color: #F5F0CD;
 font-size: 16px;
 line-height: 34px;
 margin: 0px 0px 0px 0px;
@@ -19,15 +19,13 @@ display: flex;
 flex-wrap: wrap;
 }
 
-
-
 .item {
 flex: 1 1 calc(33% - 10px);
 margin: 5px;
 }
 
 .blairt {
-color: #433;
+color: #F5F0CD;
 font-size: 64px;
 line-height: 52px;
 font-weight: bold;
@@ -36,7 +34,7 @@ letter-spacing: -2px;
 
 div#body {
 background-image: none;
-background-color: #4DA8DA;
+background-color: #3674B5;
 padding-top: 0px;
 padding-bottom: 55px;
 padding-left: 70px;
